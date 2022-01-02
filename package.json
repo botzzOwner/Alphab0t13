@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
+  "name": "XarzzBotzz",
   "version": "0.13.0",
-  "description": "WhatsApp bot",
+  "description": "Xarzz bot",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -50,7 +50,7 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Xarzz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc"
